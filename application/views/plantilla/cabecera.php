@@ -59,7 +59,7 @@
 
                     <li class="submenu">
                          <a href="#">
-                            <i class="glyphicon glyphicon-list"></i> Productos
+                            <i class="glyphicon glyphicon-list"></i> Producto
                             <span class="caret pull-right"></span>
                          </a>
                          <!-- Sub menu -->
@@ -71,7 +71,7 @@
                         <?php } ?>
 						  <li class="submenu">
                          <a href="#">
-                            <i class="glyphicon glyphicon-user"></i> Usuarios
+                            <i class="glyphicon glyphicon-user"></i> Usuario
                             <span class="caret pull-right"></span>
                          </a>
                          <!-- Sub menu -->
